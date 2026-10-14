@@ -1,14 +1,18 @@
-# ¡Buenas! Soy Lean 👋 🚀
+# ¡Buenas! Soy Lean 👋🚀
 
-📍 Vivo en Buenos Aires, Argentina.
+**Desarrollador Frontend Jr.** en Buenos Aires, Argentina. Construyo sitios y aplicaciones responsivas con React y Tailwind CSS. Vengo de 10 años en seguros, y llevo esa forma de trabajar (orden, comunicación y foco en el cliente) al código.
 
-💼 Trabajo en el rubro de seguros dentro de un broker, coordinando operaciones comerciales y productores.
+📍 Buenos Aires, Argentina · 
 
-💻 A la par, me desempeño como desarrollador Frontend freelance con React, creando interfaces modernas y dinámicas.
+💼 Disponible full-time · Remoto o híbrido
 
-🎯 Mi objetivo: consolidarme como Desarrollador Full-Stack (MERN) construyendo herramientas de gestión, automatización y productos digitales escalables.
+🎓 Último cuatrimestre de la Tecnicatura en Diseño y Programación Web (Escuela Da Vinci)
 
 🐶 Asistente de código y compañero de mates oficial: Bruno, mi perrito salchicha que supervisa que no queden bugs en producción.
+
+## 🚀 Proyectos en producción
+- **[El Rey de las Ojotas](https://elreydelasojotas.com.ar)** · Landing comercial para un cliente real, con formulario, WhatsApp y SEO. Genera consultas y ventas.
+- **[Organización Isasa](https://organizacionisasa.com.ar)** · Landing institucional para un broker de seguros, con React, Vite y Tailwind CSS.
 
 ### 🛠️ Tecnologías & Herramientas
 
@@ -25,7 +29,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 #### **Control de Versiones & Deploy**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -36,8 +40,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
 📌 ¿En qué ando hoy?
@@ -46,4 +48,8 @@
 
 📚 Cursando certificación oficial en MongoDB y profundizando arquitectura backend en Node.js.
 
-🛠️ Creando plataformas para resolver problemas de gestión (CRMs, cotizadores y comercio electrónico).
+## 📫 Contacto
+[Portfolio](https://leandrojaime.com.ar) 
+· [LinkedIn](https://www.linkedin.com/in/leandro-jaime-dev) 
+· leandrojaime17@gmail.com
+
